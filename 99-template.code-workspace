@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../99-template"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/WWW/Лущенко JS/Деструктуризация"
+		},
+		{
+			"path": "../../../Downloads/WWW/Лущенко JS/Бот телеграм"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Деструктуризация"
+	}
+}
